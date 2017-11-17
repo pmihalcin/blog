@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{496:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Patrik Mihalcin blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"During this year, I was assigned to create new system from scratch.\nIt was my turn to choose technology stack, figure out how backend will…",frontmatter:{path:"/create-new-system-lessons-learnt/",date:"11 November, 2017",title:"Create new system | LESSONS LEARNT"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-597ed483bb5fa37d4fcc.js.map
