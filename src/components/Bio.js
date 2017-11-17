@@ -26,7 +26,10 @@ class Bio extends React.Component {
                     }}
                 />
                 <p>
-                    Written by <strong>Patrik Mihalcin</strong> who lives and works in Prague building useful things.
+                    Written by <strong>Patrik Mihalcin</strong> who lives and works in Prague.
+                    <br/>
+                    <br/>
+                    Check out <a href="http://mihalc.in/">mihalc.in</a>
                 </p>
             </div>
         )
