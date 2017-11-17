@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{496:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Patrik Mihalcin blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"write tests along with new functionality; don’t leave it for later tests should be on all levels, all slices (units, services, controllers…",frontmatter:{path:"/create-new-system-lessons-learnt/",date:"11 November, 2017",title:"Create new system | LESSONS LEARNT"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-3a803d78b97ea22184d9.js.map
